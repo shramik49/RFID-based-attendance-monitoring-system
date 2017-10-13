@@ -25,13 +25,13 @@
 #include <CayenneMQTTESP8266.h>
 
 // WiFi network info.
-char ssid[] = "Redmi";
-char wifiPassword[] = "shramik49";
+char ssid[] = "xxxx";
+char wifiPassword[] = "xxxxx";
 
 // Cayenne authentication info. This should be obtained from the Cayenne Dashboard.
-char username[] = "1e6889a0-a8a0-11e6-a85d-c165103f15c2";
-char password[] = "0a7443db1f633b13a06d00adea16f34e1b14f1d2";
-char clientID[] = "545cdbd0-ac12-11e7-bc55-51a105d3afc2";
+char username[] = "xxxxx";
+char password[] = "xxxxx";
+char clientID[] = "xxxxxx";
 
 #include <SPI.h>
 #include <MFRC522.h>
